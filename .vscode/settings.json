@@ -1,0 +1,29 @@
+{
+    "airun.settings": {
+        "workspaceId": "598d81c0-0411-4777-804d-a5024ee7dfb5"
+    },
+    "claudeCode.environmentVariables": [
+        {
+            "name": "CLAUDE_PLUGIN_DIR",
+            "value": "C:\\Users\\PrajwalRajendraKaran\\.codemie\\claude-plugin"
+        },
+        {
+            "name": "ANTHROPIC_LOG",
+            "value": "debug"
+        },
+        {
+            "name": "ANTHROPIC_BASE_URL",
+            "value": "http://localhost:54376"
+        },
+        {
+            "name": "ANTHROPIC_AUTH_TOKEN",
+            "value": "dummy"
+        },
+        {
+            "name": "NO_PROXY",
+            "value": "localhost,127.0.0.1"
+        }
+    ],
+    "claudeCode.disableLoginPrompt": true,
+    "postman.settings.dotenv-detection-notification-visibility": false
+}
